@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libraries/bcel-5.2.jar"/>
+	<classpathentry kind="lib" path="libraries/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="libraries/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="libraries/jgraph-5.13.0.0.jar"/>
+	<classpathentry kind="lib" path="libraries/jgrapht-core-0.9.1.jar"/>
+	<classpathentry kind="lib" path="libraries/jgrapht-demo-0.9.1.jar"/>
+	<classpathentry kind="lib" path="libraries/jgrapht-ext-0.9.1-uber.jar"/>
+	<classpathentry kind="lib" path="libraries/jgrapht-ext-0.9.1.jar"/>
+	<classpathentry kind="lib" path="libraries/jgraphx-2.0.0.1.jar"/>
+	<classpathentry kind="lib" path="libraries/swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
